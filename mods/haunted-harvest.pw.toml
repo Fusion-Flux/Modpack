@@ -1,0 +1,13 @@
+filename = 'hauntedharvest-1.20-3.1.19-fabric.jar'
+name = 'Haunted Harvest'
+side = 'both'
+
+[download]
+hash = '2e27f0de1c657308f3a9a68a76e220a377ef21cbada8b27fbf009665dfc93a31a2dec267b1887a7977a3b058c7729c51a180abb6e16e4621019ab918ce08d67f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/a378ICDH/versions/V8scnmoY/hauntedharvest-1.20-3.1.19-fabric.jar'
+
+[update.modrinth]
+mod-id = 'a378ICDH'
+version = 'V8scnmoY'

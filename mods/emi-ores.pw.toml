@@ -1,0 +1,13 @@
+filename = 'emi_ores-0.3+1.20.1.jar'
+name = 'EMI Ores'
+side = 'both'
+
+[download]
+hash = 'edba5d573518301e2c055429f327aa24af32e0d44e650ba543c54997c349dffc52a37396bc1f1b09003c0dc1f92e46698eab3716818fca5a544261a8d5a481d3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sG4TqDb8/versions/coEn5ieO/emi_ores-0.3%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'sG4TqDb8'
+version = 'coEn5ieO'

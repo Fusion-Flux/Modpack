@@ -1,0 +1,13 @@
+filename = 'appliedenergistics2-fabric-15.0.23.jar'
+name = 'Applied Energistics 2'
+side = 'both'
+
+[download]
+hash = '229403128ac5c36c5b35b816397ea7ec205cfe32b20eb594ef1ba8bd86f8d67857a1374ab0b04370f72fc9e4ecb33f6a99b31ab2620e2df243033f3b267c106a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XxWD5pD3/versions/4I61MxJa/appliedenergistics2-fabric-15.0.23.jar'
+
+[update.modrinth]
+mod-id = 'XxWD5pD3'
+version = '4I61MxJa'

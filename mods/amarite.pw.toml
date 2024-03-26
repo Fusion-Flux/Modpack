@@ -1,0 +1,13 @@
+filename = 'amarite-1.5-1.0.8.jar'
+name = 'Amarite'
+side = 'both'
+
+[download]
+hash = 'bf1f7957df533b394249cd6e60acf1f55e92960e51e9e3303960f7e21494d6e479aed4384de1894da04267ec6f56bf433bdcdb5997444c10fdcaf7d3c3c97323'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ftofxBty/versions/avD3BFrw/amarite-1.5-1.0.8.jar'
+
+[update.modrinth]
+mod-id = 'ftofxBty'
+version = 'avD3BFrw'

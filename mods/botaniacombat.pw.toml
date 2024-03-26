@@ -1,0 +1,13 @@
+filename = 'botaniacombat-1.20.1-1.1.2.jar'
+name = 'BotaniaCombat'
+side = 'both'
+
+[download]
+hash = 'e8d6033aa13c8b0edffe5dbaba4ec9d8f0b1f921ae48369fed68178111d21e2dd7e90676efc70e576b40037c4519269b0b5e14d8f880a23daae2e2606fa58b14'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CFXaaDkh/versions/FGA2iEmK/botaniacombat-1.20.1-1.1.2.jar'
+
+[update.modrinth]
+mod-id = 'CFXaaDkh'
+version = 'FGA2iEmK'
