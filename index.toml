@@ -191,6 +191,11 @@ hash = "e95ee014b41757e839cec23971796e488af88c66360354bd7dc88b8438b45beb"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "15e464d3e05d3cf4027fcc8f970002a4609d7bbded7282ee07bf1b8ed3ebb83f"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "8c513ce0db96e585a9454530a012fe3874d70f3ec4a02a59939bc90e0ff31443"
 metafile = true
@@ -198,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/kibe.pw.toml"
 hash = "96ba9f4f2fc4cdd402b03ee962a96b572063f4c9c6063604e742a6aee05a3931"
+metafile = true
+
+[[files]]
+file = "mods/libzoomer.pw.toml"
+hash = "ebeabb9ef76416132577000fcffc125bb3eb988bc388efe667e61136f3bf36df"
 metafile = true
 
 [[files]]
@@ -233,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "70df894546d8425dcfe5098968508da8cb8659ec3ec33f4ce4992f8ad7096a28"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "2f13a65f156a6d167c1edc640de0a12a23c38c6bb108719f7f13c154142790d1"
 metafile = true
 
 [[files]]
