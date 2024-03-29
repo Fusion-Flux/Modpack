@@ -36,8 +36,18 @@ hash = "0806d55d9a5e7d7528cd13c5f25bff09274c48a883fe3fa351e8eae40efe1807"
 metafile = true
 
 [[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "92b9757de9768ad7eac318349e316f1d8ad7ba74997083b11a2f535a2866b73b"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "62537bc25ed09714f501a93f6b130759c02744cef5827d5042c304881b15f6ea"
+metafile = true
+
+[[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "eb83d3d003a7abbbbbd7afb0fcec436dcc691db9cec9f9dd1d45e9b41ae88fd8"
 metafile = true
 
 [[files]]
@@ -81,6 +91,11 @@ hash = "fde1776bd0af0b3026f26e92cc0abb8498a71a5a75ac5c82a01f489a609c31f1"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "33fa0ece00adab2e798bc2cd48003e3392c7a8273a48edf0fd9a6e970f2198a4"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "8faa1d12ff14e28d30370483dd5803f8faebc7970f9892b90ced8cf43c9a815b"
 metafile = true
@@ -93,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "0a36ae80daa4ae82d1036fae4d69c8929382551d66e53de7dec277ac867c7615"
+metafile = true
+
+[[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "a028be586512f009eb0730a58a7276b908c41fe1c7a0f7e7ac4940b61c64b559"
 metafile = true
 
 [[files]]
@@ -131,8 +151,23 @@ hash = "9daebed8662c9e5db76fc4750adfb786e5214ecc69c503faeefbd359cdec2a6a"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "2443b25738130386479f89f9d5ea817087e4c389f1d587bbe9edc1009c6bd886"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "14eadf38e8a78b9989b25f58e796d868b2555c9095e97bc416bce559335bae33"
+metafile = true
+
+[[files]]
 file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
 hash = "8a45775e5d93526ba13f0718024b1f249f0ed47fce944c4ab7c4c5eae477a943"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "f7b54a78c921947b028a8539a5163e3591662ea292170c5e4fc54315bee988d1"
 metafile = true
 
 [[files]]
@@ -158,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-knives.pw.toml"
 hash = "fb66c18362fbb261250f2498687c0bae4a1e392cf7c2de230228885bc42df679"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "f6e1b5a95cb720302c65fe91283b0859275be9f49b44d92921aef49ef71eb61c"
 metafile = true
 
 [[files]]
@@ -193,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "15e464d3e05d3cf4027fcc8f970002a4609d7bbded7282ee07bf1b8ed3ebb83f"
+metafile = true
+
+[[files]]
+file = "mods/infinite-dimensions.pw.toml"
+hash = "8faf9d24e4f7d781ce6dcd85e96119ed555992e81260f07787139a630646815d"
 metafile = true
 
 [[files]]
@@ -236,13 +281,18 @@ hash = "a5a9295a6773270cd8248d6329202d0f9fc6d46fdb44dadfdedee106a6bf5894"
 metafile = true
 
 [[files]]
-file = "mods/naturalist.pw.toml"
-hash = "91c6b80984e4cf5b3cb709b926dfcbf180818d24b424a397c8782cfb897bb1f2"
+file = "mods/mutant-monsters.pw.toml"
+hash = "b766cb744324fb9ccdcbe18b1d8dbe3370eff5b278c382b4037cf4ec4be91045"
 metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "70df894546d8425dcfe5098968508da8cb8659ec3ec33f4ce4992f8ad7096a28"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "25633fd247f1a21d74b20d56aea5f3bdc6271d7a3d9abae78cfa6e9456c5498f"
 metafile = true
 
 [[files]]
@@ -266,6 +316,11 @@ hash = "f925aed95276c8a4c301782f5dc925cc635232dabc396e529b0af00a80916e4b"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "510cd2f11d797a5abb2fd3a5be44a1a37c986f643a2d03e828ff4b02a94a0bbb"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "480874ff04f99f848c9d99d93fe387a27c8c5331056d811d87b7f5e6ba6022ca"
 metafile = true
@@ -283,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "fb163ff6d4fc70632f1b356abb6399c971987fe981424dc66ca1f5bf2f39fef9"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "edc04cd910c70b6bf584394eea86cfe76d1cb44e7826cc7079fed7cac5f90a22"
 metafile = true
 
 [[files]]
@@ -306,8 +366,23 @@ hash = "b4fe5aceba30da31e9ebf5d5a02a92aab3f0a03efe70120eb99079ad8d31c8e0"
 metafile = true
 
 [[files]]
+file = "mods/spectrum.pw.toml"
+hash = "02649d57ca490f4383d82921884b82ea0df1949cbe549be8f711d6cad5162f2e"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "f53eca57a5485715c33c6cd4f32beffa69962034a80152f76d0e6f12844f11fe"
+metafile = true
+
+[[files]]
 file = "mods/spellbound-weapons.pw.toml"
 hash = "5efe9c6823037b82a16bfa98a0342df3ede21ec617f492288202eb698758b5af"
+metafile = true
+
+[[files]]
+file = "mods/structure-pool-api.pw.toml"
+hash = "511d8667daa59462021643d1e7c31a0e72b2c4e8ec60631d5db7c9d20a4481aa"
 metafile = true
 
 [[files]]

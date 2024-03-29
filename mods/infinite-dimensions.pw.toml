@@ -1,0 +1,13 @@
+filename = 'infinity-1.8.3-1.20.1.jar'
+name = 'Infinite Dimensions'
+side = 'both'
+
+[download]
+hash = '10f4058e300600bfd5b55a65598e5e61b7fc69d2106437f124fd0e6987fcb8c7ffb5d873f0d5b4bb99985c45e4970ce12ed0740898743f8a537ece83c24d42e5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KgKqTqPj/versions/mudT8MKc/infinity-1.8.3-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'KgKqTqPj'
+version = 'mudT8MKc'
