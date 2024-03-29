@@ -226,6 +226,11 @@ hash = "d9a8e425b1743074a0bdb5dcc544843aba392651e3e21468cc1e7de28ed4d899"
 metafile = true
 
 [[files]]
+file = "mods/identity.pw.toml"
+hash = "89a2dd47f2d4d5da0964bb7e36f733e152ae277e500acc033d66e7fcc0aaaaeb"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "e95ee014b41757e839cec23971796e488af88c66360354bd7dc88b8438b45beb"
 metafile = true
