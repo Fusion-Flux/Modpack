@@ -326,11 +326,6 @@ hash = "b766cb744324fb9ccdcbe18b1d8dbe3370eff5b278c382b4037cf4ec4be91045"
 metafile = true
 
 [[files]]
-file = "mods/natures-spirit.pw.toml"
-hash = "70df894546d8425dcfe5098968508da8cb8659ec3ec33f4ce4992f8ad7096a28"
-metafile = true
-
-[[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "25633fd247f1a21d74b20d56aea5f3bdc6271d7a3d9abae78cfa6e9456c5498f"
 metafile = true
@@ -433,11 +428,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "c0b8c334125551330b061fdc872fbee5cc08ef9e635be55f545af59bd251d235"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "df85ec06821c44664fcda4e70dd96a4c41ff72bbb9eddb17b0bfe0df7a16d6c5"
 metafile = true
 
 [[files]]
