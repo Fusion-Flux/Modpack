@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "62537bc25ed09714f501a93f6b130759c02744cef5827d5042c304881b15f6ea"
+hash = "f2029faef1102bf77a03ecaffe0ab5c2e08fcb8a55e5a8659821123ffc958967"
 metafile = true
 
 [[files]]
@@ -121,6 +121,16 @@ hash = "818e0e92809647e881f8e7d3cf4a8f52bb53feba67a5defdd2e93d11811cbb75"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "7aabe009cb0e597756b19136d1f652cdc4d82f66fe2df56db01a8c890a95e320"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "6a62f8cf2efc6ea76d23b83ce1e5286639f37aa4359fe1458db219260abde343"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "ca9da4bcc8e4fcc052bc511a49409f72ce2e560321ef66b0b4a953d36d78c8b6"
 metafile = true
@@ -161,6 +171,11 @@ hash = "14eadf38e8a78b9989b25f58e796d868b2555c9095e97bc416bce559335bae33"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "dfe7c802a11c9c09ac4040da8136b98ff15740c96e1a677d7df62383ce42a974"
+metafile = true
+
+[[files]]
 file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
 hash = "8a45775e5d93526ba13f0718024b1f249f0ed47fce944c4ab7c4c5eae477a943"
 metafile = true
@@ -196,6 +211,11 @@ hash = "fb66c18362fbb261250f2498687c0bae4a1e392cf7c2de230228885bc42df679"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "681e076cd78ffdd49634852bcca393d53eb255090e5b0a18e08e200da065addb"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f6e1b5a95cb720302c65fe91283b0859275be9f49b44d92921aef49ef71eb61c"
 metafile = true
@@ -227,7 +247,12 @@ metafile = true
 
 [[files]]
 file = "mods/identity.pw.toml"
-hash = "89a2dd47f2d4d5da0964bb7e36f733e152ae277e500acc033d66e7fcc0aaaaeb"
+hash = "4bd5e866c3642192ad9f328dc41e916a1b527c794bef0dda51604e4a6c3049a4"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "7e67ee2ac1d45bcbb46c9edf08266e4d1419f7f7789ab582b073dacf9b3cca9a"
 metafile = true
 
 [[files]]
@@ -261,8 +286,18 @@ hash = "ebeabb9ef76416132577000fcffc125bb3eb988bc388efe667e61136f3bf36df"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "a3e443343c15ff73b4180e0573db24b0a5faf9479fdf55ca89786c1a4adf1c2c"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "8bdb1b25b7e13c29aca2091c379e1d466239e02c698894095db500a9648b0421"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "9bff669b99a5389b6c8c33be3107e3b24a139f61dd9a0dc23e6de8aa9f192da8"
 metafile = true
 
 [[files]]
@@ -408,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
 hash = "f1cb35eb031fb7ac197391469e91b88013edcecfa0038cf2298b5fa9a4cf57f4"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "fefa07d7bc0f6d76347a9348d73b9f8ceb9d9b15f2e272edce0029dd035408b8"
 metafile = true
 
 [[files]]
