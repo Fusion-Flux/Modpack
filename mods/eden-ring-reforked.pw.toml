@@ -1,0 +1,13 @@
+filename = 'eden-ring-20.1.19.jar'
+name = 'Eden Ring Reforked'
+side = 'both'
+
+[download]
+hash = '33a888285736b41361cda577e15a715abebbc76af863853e0562926e61861ce1537695b0ec0e2a826141444aa183906189ebef0013dd0355a6524b35da046196'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EMl3XyUs/versions/tOclpWKV/eden-ring-20.1.19.jar'
+
+[update.modrinth]
+mod-id = 'EMl3XyUs'
+version = 'tOclpWKV'

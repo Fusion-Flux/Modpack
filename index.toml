@@ -51,8 +51,18 @@ hash = "eb83d3d003a7abbbbbd7afb0fcec436dcc691db9cec9f9dd1d45e9b41ae88fd8"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "615a815db13fda06e79645795f2bf58dea3ac036bd202a42c10f76268a08cff4"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "8ed842063afbed9a91ae9ae92b234f202fbe019906cddd484ce8d7556f8f4e9d"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "ba63d6bf22b76b6f2498957f2007e2cb19e3228e560040d50ba008fabfdb1ddc"
 metafile = true
 
 [[files]]
@@ -111,6 +121,11 @@ hash = "0a36ae80daa4ae82d1036fae4d69c8929382551d66e53de7dec277ac867c7615"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "cce859cfb839fdd8f7bcd52539a8c937855a153988ba41d3e650eb456a77224b"
+metafile = true
+
+[[files]]
 file = "mods/diggus-maximus.pw.toml"
 hash = "a028be586512f009eb0730a58a7276b908c41fe1c7a0f7e7ac4940b61c64b559"
 metafile = true
@@ -128,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "6a62f8cf2efc6ea76d23b83ce1e5286639f37aa4359fe1458db219260abde343"
+metafile = true
+
+[[files]]
+file = "mods/eden-ring-reforked.pw.toml"
+hash = "888e7b35e4a8e14b15d14213f2de199946c125448dfd5b9a86702890e0fe350f"
 metafile = true
 
 [[files]]
@@ -301,6 +321,11 @@ hash = "9bff669b99a5389b6c8c33be3107e3b24a139f61dd9a0dc23e6de8aa9f192da8"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "f48535f54e028a903369fd558673f058a1f3eefb04a0170304d6da27a430e7aa"
+metafile = true
+
+[[files]]
 file = "mods/monolib.pw.toml"
 hash = "559f10e0fb05cd5debe113ca2143f21ca953ab0b2c646a0b62dd891a6aeec7e0"
 metafile = true
@@ -343,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "7799a39d0d8c2d6a98b59d4b8f2a191ebdbfd38343d12b930ff71c9750e6531f"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "df481958045abaf26145a5a8b7b9aed72567e6c909e2f092df9dc7e479d7347b"
 metafile = true
 
 [[files]]
@@ -458,4 +488,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "c82517afde0c674bc82afd7a6a60de75e4b15ea37191e1274a1b352961143a13"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "7375bc08cdf91acdca9ecf48152d54f94c00578477b257f2aeae8bbed1c332af"
 metafile = true
