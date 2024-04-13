@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "f2029faef1102bf77a03ecaffe0ab5c2e08fcb8a55e5a8659821123ffc958967"
+hash = "62537bc25ed09714f501a93f6b130759c02744cef5827d5042c304881b15f6ea"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "8faa1d12ff14e28d30370483dd5803f8faebc7970f9892b90ced8cf43c9a815b"
+hash = "ec8aa40b5498248606a669c1a57a0e4fe7b3a219bd479d9b51b061a2989cd838"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "0a36ae80daa4ae82d1036fae4d69c8929382551d66e53de7dec277ac867c7615"
+hash = "502fda7e6f328aaf0663a50b31187f3290ea9539471773b858576a3a898c3f61"
 metafile = true
 
 [[files]]
@@ -266,11 +266,6 @@ hash = "d9a8e425b1743074a0bdb5dcc544843aba392651e3e21468cc1e7de28ed4d899"
 metafile = true
 
 [[files]]
-file = "mods/identity.pw.toml"
-hash = "4bd5e866c3642192ad9f328dc41e916a1b527c794bef0dda51604e4a6c3049a4"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7e67ee2ac1d45bcbb46c9edf08266e4d1419f7f7789ab582b073dacf9b3cca9a"
 metafile = true
@@ -351,6 +346,11 @@ hash = "b766cb744324fb9ccdcbe18b1d8dbe3370eff5b278c382b4037cf4ec4be91045"
 metafile = true
 
 [[files]]
+file = "mods/numismatics.pw.toml"
+hash = "8ab7139dbb5daf128515d5fe052efd50ac260bf4206e9ec1c1eb8d2d72befa10"
+metafile = true
+
+[[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "25633fd247f1a21d74b20d56aea5f3bdc6271d7a3d9abae78cfa6e9456c5498f"
 metafile = true
@@ -411,6 +411,11 @@ hash = "edc04cd910c70b6bf584394eea86cfe76d1cb44e7826cc7079fed7cac5f90a22"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a57ddaa3c01848fc97de92e1ef79fa62a8859937450faeae6ba1eb62d394396a"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "e23dc62791638eae65838788006c5c05919580bd88b503635a90ab8ffc4c25a6"
 metafile = true
@@ -423,11 +428,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "dcd31f8067f45282244cf26654d38c86885b31b3f5a6077db860dc0d11be06ad"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "b4fe5aceba30da31e9ebf5d5a02a92aab3f0a03efe70120eb99079ad8d31c8e0"
 metafile = true
 
 [[files]]
