@@ -1,0 +1,13 @@
+filename = 'AnvilFix-Quilt-2.0.1.jar'
+name = 'Anvil Fix'
+side = 'both'
+
+[download]
+hash = '890081da27933fcab592916fbd3463f088bb1abb9a4341d6490e74e19cba517c824a478917916965fea75f952d7f039bdf9dde0bad5e5f6edc698677b8d29ef0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EB79Qy8k/versions/tnHbRWS8/AnvilFix-Quilt-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'EB79Qy8k'
+version = 'tnHbRWS8'

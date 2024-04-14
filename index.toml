@@ -21,6 +21,11 @@ hash = "3bae1044ddf4f5b914a5c44e135223f13cabcb426981629f9da89175f195227b"
 metafile = true
 
 [[files]]
+file = "mods/anvil-fix.pw.toml"
+hash = "7e852b72b290a4017d42bcc26c89d59ce82a99ee4eea7e389fd447cb48643bd4"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3587cc3dc1a93cd06a2f713077c1f451b1623926001e2c7d06f213561fd37ac"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "84b2922b6ed72030b7a9bb530394de57d045f118b36240e7e9bdafbddb2f5f9c"
+metafile = true
+
+[[files]]
+file = "mods/common-network.pw.toml"
+hash = "43f1690660f0213d8bb48ca49fdf5cd6e5b602ed292404c3b7742c527b44c117"
 metafile = true
 
 [[files]]
@@ -253,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/ibo.pw.toml"
 hash = "d9a8e425b1743074a0bdb5dcc544843aba392651e3e21468cc1e7de28ed4d899"
+metafile = true
+
+[[files]]
+file = "mods/icarus.pw.toml"
+hash = "0b63722ca326c99913bb3d71f30c3ea9c66a856b527a79f08f4331350b512182"
 metafile = true
 
 [[files]]
@@ -413,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "fb163ff6d4fc70632f1b356abb6399c971987fe981424dc66ca1f5bf2f39fef9"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "363b5fd2da53b2edbcf55a2fd9dfd01127d7eb93f99a14732d7494fdb5659c8d"
 metafile = true
 
 [[files]]

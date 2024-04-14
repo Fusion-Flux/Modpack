@@ -1,0 +1,13 @@
+filename = 'Icarus-Fabric-2.1.4.jar'
+name = 'Icarus'
+side = 'both'
+
+[download]
+hash = '4a6abecd95c205a315dcfafe6ecacc59796f9c1f83d0365e206d2efa51c98d36cdc01930db03c357af62728ecb7c55b9a0b9ea693b7a5e96bab72fd6dd639ee0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Dw7M6XKW/versions/3At3q5Lv/Icarus-Fabric-2.1.4.jar'
+
+[update.modrinth]
+mod-id = 'Dw7M6XKW'
+version = '3At3q5Lv'
