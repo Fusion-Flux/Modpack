@@ -86,6 +86,11 @@ hash = "be66c0fda1bc4bd3668bfc70a2a037924d604890fde47d285d620081d5946fde"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "e00557c12045c1be0c6ecd0a8cd9f9095a798662f5a08769fbb0263fac1a956c"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7404cb4d203fd70d380cebb65f05391dda297b305fd9b2be7fd1eb62f85718cf"
 metafile = true
