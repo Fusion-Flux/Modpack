@@ -251,11 +251,6 @@ hash = "5cada429abe1a54800348dc7fbad00d2d114bc14b78098ca965c63b0bdced6b7"
 metafile = true
 
 [[files]]
-file = "mods/gardenofglass.pw.toml"
-hash = "6fd1658b7934587882ed6e7d2b25dbbf343a2a56560a3e5894820552bf0bb3ed"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "80d5e025bd911336fe6a9a02efaa73cbdde40e215f46e100d4eb3b97f22de9f0"
 metafile = true
@@ -273,6 +268,16 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7e67ee2ac1d45bcbb46c9edf08266e4d1419f7f7789ab582b073dacf9b3cca9a"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "efc548d34b7ec5ba1306f1cb6ce9273aea5f069138dd47e06de82562e7532845"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "b6ec09523b1f8e58d2304a77c9f33340a649a7df2b0c9f26c90445f63d63e02c"
 metafile = true
 
 [[files]]
@@ -448,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/spellbound-weapons.pw.toml"
 hash = "5efe9c6823037b82a16bfa98a0342df3ede21ec617f492288202eb698758b5af"
+metafile = true
+
+[[files]]
+file = "mods/staaaaaaaaaaaack.pw.toml"
+hash = "ccfb40dacf1d5c82efe726c5966ce260af5c78fc2019a5a6622d0fd257ed73a9"
 metafile = true
 
 [[files]]
