@@ -251,11 +251,6 @@ hash = "80d5e025bd911336fe6a9a02efaa73cbdde40e215f46e100d4eb3b97f22de9f0"
 metafile = true
 
 [[files]]
-file = "mods/haunted-harvest.pw.toml"
-hash = "98ae34ec1fd7ce67884782959073a70e0603fea4fc144d46ea2454ffa3a8ae3d"
-metafile = true
-
-[[files]]
 file = "mods/ibo.pw.toml"
 hash = "d9a8e425b1743074a0bdb5dcc544843aba392651e3e21468cc1e7de28ed4d899"
 metafile = true
@@ -293,6 +288,16 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "8c513ce0db96e585a9454530a012fe3874d70f3ec4a02a59939bc90e0ff31443"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "375d35d18afa97af6ff0e8522394728c3607f2a0871ce3278447fcafd9bbd47a"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "1dbc0fc773625fbf097571d01ebefdb69c1f018af8187909f2f5fcbb351838e2"
 metafile = true
 
 [[files]]
