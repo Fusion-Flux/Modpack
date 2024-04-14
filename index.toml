@@ -191,11 +191,6 @@ hash = "2443b25738130386479f89f9d5ea817087e4c389f1d587bbe9edc1009c6bd886"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-celestials.pw.toml"
-hash = "14eadf38e8a78b9989b25f58e796d868b2555c9095e97bc416bce559335bae33"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "dfe7c802a11c9c09ac4040da8136b98ff15740c96e1a677d7df62383ce42a974"
 metafile = true
