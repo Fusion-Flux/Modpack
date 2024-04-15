@@ -51,6 +51,11 @@ hash = "eb83d3d003a7abbbbbd7afb0fcec436dcc691db9cec9f9dd1d45e9b41ae88fd8"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "a364432a4ce427bf13aa711c7bc737776a97c804618767e0089022a76ffdf641"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "615a815db13fda06e79645795f2bf58dea3ac036bd202a42c10f76268a08cff4"
 metafile = true
@@ -508,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-refresh.pw.toml"
 hash = "a584eade845ced6c2258214454a5590d3bcb1dc74b92f59113129a1f84ae3400"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "f6701d6f54e956ffa1ddc41a86396524e2931567f6e89f8eae032ca34f7394f3"
 metafile = true
 
 [[files]]
