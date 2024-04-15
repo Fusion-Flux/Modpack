@@ -21,11 +21,6 @@ hash = "3bae1044ddf4f5b914a5c44e135223f13cabcb426981629f9da89175f195227b"
 metafile = true
 
 [[files]]
-file = "mods/anvil-fix.pw.toml"
-hash = "7e852b72b290a4017d42bcc26c89d59ce82a99ee4eea7e389fd447cb48643bd4"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3587cc3dc1a93cd06a2f713077c1f451b1623926001e2c7d06f213561fd37ac"
 metafile = true
@@ -267,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "0b63722ca326c99913bb3d71f30c3ea9c66a856b527a79f08f4331350b512182"
+hash = "103d2f768ab4b801504d1853348947e78614a2f493963cf9e9896e79aef9db39"
 metafile = true
 
 [[files]]
