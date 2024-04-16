@@ -1,13 +1,13 @@
-filename = 'Icarus-Quilt-2.1.4.jar'
+filename = 'Icarus-Quilt-2.2.0.jar'
 name = 'Icarus'
 side = 'both'
 
 [download]
-hash = '16c440707f7ed78110ff305f987b19fea322686433d7a56e9d9cbda52cb2edd7db119f2f492c616127ebbe49421ed47117b933b75bdfe7e46e0d18cf9c2a3077'
+hash = 'd0f1123d2b819fa5b33d46e5e3c19f3898ac48d2c8b609347ddde6d37b326a2499f37382f9accefcfdbd14cd33610815c1e7161734378c6c3b55e0bd56e4a6f9'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Dw7M6XKW/versions/NGCyQJlV/Icarus-Quilt-2.1.4.jar'
+url = 'https://cdn.modrinth.com/data/Dw7M6XKW/versions/Cwxrsn9O/Icarus-Quilt-2.2.0.jar'
 
 [update.modrinth]
 mod-id = 'Dw7M6XKW'
-version = 'NGCyQJlV'
+version = 'Cwxrsn9O'
