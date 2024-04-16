@@ -101,6 +101,11 @@ hash = "7404cb4d203fd70d380cebb65f05391dda297b305fd9b2be7fd1eb62f85718cf"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "6d608c4caf3d8a10a23b8775b4e0d91432f2fa90080f8e4443a8123ff7b590b1"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "84b2922b6ed72030b7a9bb530394de57d045f118b36240e7e9bdafbddb2f5f9c"
 metafile = true
@@ -503,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "fefa07d7bc0f6d76347a9348d73b9f8ceb9d9b15f2e272edce0029dd035408b8"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "ed6f2d4b4b4ee6045826207bfc8be9982c99204b2dcff0145b75370073679656"
 metafile = true
 
 [[files]]
