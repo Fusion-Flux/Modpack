@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "103d2f768ab4b801504d1853348947e78614a2f493963cf9e9896e79aef9db39"
+hash = "82d3b41e5cc0f4385824f749881484eeb7f5ea9cb958ce481fa75c2b73641054"
 metafile = true
 
 [[files]]
@@ -323,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/kibe.pw.toml"
 hash = "96ba9f4f2fc4cdd402b03ee962a96b572063f4c9c6063604e742a6aee05a3931"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "fda80e9e1d3a3ba0ae93982048bf60e320c11a9a93ef999f2f1a172f6b0efffc"
 metafile = true
 
 [[files]]
@@ -387,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "2f13a65f156a6d167c1edc640de0a12a23c38c6bb108719f7f13c154142790d1"
+hash = "7e64449c2f3de749be39ea20b3c08c435623720e60d76dd327e66eda9348a48c"
 metafile = true
 
 [[files]]
