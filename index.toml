@@ -506,11 +506,6 @@ hash = "c0b8c334125551330b061fdc872fbee5cc08ef9e635be55f545af59bd251d235"
 metafile = true
 
 [[files]]
-file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "f1cb35eb031fb7ac197391469e91b88013edcecfa0038cf2298b5fa9a4cf57f4"
-metafile = true
-
-[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "fefa07d7bc0f6d76347a9348d73b9f8ceb9d9b15f2e272edce0029dd035408b8"
 metafile = true
